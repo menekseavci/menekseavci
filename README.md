@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Menekşe Avcı</h1>
-<h3 align="center">I am an industrial engineering student and a 2nd semester graduate of Women in tech academy. I want to advance my career in the field of data science.</h3>
+<h3 align="center">I am a 3rd year industrial engineering student and a 2nd semester graduate of Women in Tech Academy. I am developing myself in the field of data science and aiming for a career in this field.</h3>
 
-- 🌱 I’m currently learning **Machine Learning and Tensorflow**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **meneksee.avci@gmail.com**
 
@@ -12,4 +12,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
