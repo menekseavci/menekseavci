@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menekşe Avcı</h1>
-<h3 align="center">I am a 3rd year industrial engineering student and a 2nd semester graduate of Women in Tech Academy. I am developing myself in the field of data science and aiming for a career in this field.</h3>
+<h3 align="center">I am a 4rd year industrial engineering student and a 2nd semester graduate of Women in Tech Academy. I am developing myself in the field of data science and aiming for a career in this field.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
