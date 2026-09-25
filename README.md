@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Menekşe Avcı</h1>
 
 <h3 align="center">
-Industrial Engineer | M.Sc. Candidate | Optimization & Data Analytics
+Industrial Engineer | Master's Student | Optimization & Data Analytics
 </h3>
 
 <p align="center">
-I am an Industrial Engineer and M.Sc. candidate in Industrial Engineering at Ankara Yıldırım Beyazıt University. 
-My interests focus on operations research, mathematical optimization, data analytics, and decision support systems, 
+I am an Industrial Engineer and a Master's student in Industrial Engineering at Ankara Yıldırım Beyazıt University. 
+My interests include operations research, mathematical optimization, data analytics, and decision support systems, 
 with a growing focus on financial modeling, risk management, and portfolio optimization.
 </p>
 
-- 🎓 I’m currently pursuing my **M.Sc. in Industrial Engineering**
+- 🎓 I’m currently pursuing my **Master's degree in Industrial Engineering**
 
 - 🔬 My research interests include **Operations Research, Mathematical Optimization, Portfolio Optimization, Risk Management, and Decision Support Systems**
 
 - 💻 I work with **Python, SQL, Power BI, Gurobi, PuLP, SciPy, and Scikit-learn**
 
-- 📊 I enjoy developing **data-driven and optimization-based solutions for complex decision problems**
+- 📊 I’m interested in developing **data-driven and optimization-based solutions for complex decision problems**
 
 - 🌱 I’m currently exploring **Financial Optimization, FinTech, Explainable AI (XAI), and AI-assisted Optimization**
 
@@ -41,11 +41,6 @@ width="40" />
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
 alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-alt="sql" width="40" height="40"/>
 </a>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
